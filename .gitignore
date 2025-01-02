@@ -1,1 +1,4 @@
 /venv
+/weekly_planner/weekly_planner/__pycache__*
+/weekly_planner/planner/__pycache__*
+/weekly_planner/planner/migrations/__pycache__*
